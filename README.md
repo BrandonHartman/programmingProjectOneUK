@@ -1,6 +1,7 @@
 ProgrammingProjectOneUK
 My first project in my Introduction to Python at the University of Kentucky.
 The first program project was to cover input() and format(). 
+
 Problem Definition
 Write a program that inputs the users amount of a purchase and then convert the input to having taxes at certain percentages given (State tax is calculated at 5 percent and the county tax is 2.5). We will need the program to display the output as a certain variable outcome and the output will be formatted to two decimal points away and also having aligned formatting for corresponding variables.
 

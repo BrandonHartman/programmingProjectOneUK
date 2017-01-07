@@ -1,11 +1,9 @@
-
-My first project in my Introduction to Python at the University of Kentucky.
-The first program project was to cover input() and format(). 
-
 Problem Definition
+--------------------------------------------
 Write a program that inputs the users amount of a purchase and then convert the input to having taxes at certain percentages given (State tax is calculated at 5 percent and the county tax is 2.5). We will need the program to display the output as a certain variable outcome and the output will be formatted to two decimal points away and also having aligned formatting for corresponding variables.
 
 Analysis
+---------------------------------------------
 We have picked Python as our language for this project because we are currently learning the programming language in class... The program will start off with the user entering the purchase amount so will need a float variable and an input function to receive the information. The variable that the program will be using will be called amountOfPurchase. Also, the program will be formatting these variables with format() so that they are align together to the corresponding numbers that it is with. The String constant of “Amount of purchase: “will be moved “>15s” (‘s’ used for strings) for alignment and the float will be measured ’10.2f’ (‘f’ used for float) to receive the two decimals points away.
 
 After the input of that section; it will lead into the calculation towards the State and County taxes.
@@ -22,6 +20,7 @@ format the string constant “Total of sale:” to “<15s”. Afterwards, it wi
 and print and format it two decimal points away using ‘>15.2f”.
 
 Design
+-----------------------------------------
 Here is the Pseudocode: 
 •	Input “What is the purchase amount of your item? “
 •	Assign that to amountOfPurchase
@@ -42,9 +41,10 @@ Here is the Pseudocode:
 •	Run the program and receive your final amount!
 
 Implementation
+-------------------------------------------
 The development environment used for this program was PyCharm CE. I programmed it on my Mac pro using the OS Operating
 System. I had a couple unusual situations happen while developing this program. I ran into a problem formatting the correct
 alignment for the strings and floats to connect. It started acting strange when I decided to put backspaces to add a new
 format. After some measuring and fiddling with the code…It finally aligned up perfectly! The main concern for me in this
 project was fixing the format for it to measure correctly.
-Contact GitHub API Training Shop Blog About
+
